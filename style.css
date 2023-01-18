@@ -1,0 +1,17 @@
+/* Styling goes in this file */
+
+body {
+	font-family: "Arial";
+}
+
+.centered {
+	text-align: center;
+}
+
+.container {
+	border: black;
+}
+
+#p1 {
+	color: green;
+}
